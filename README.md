@@ -1,6 +1,6 @@
 # Java Spring Boot
 
-<h1 align="center">Hi 👋, This is E-KisanKart based on ecommerce website to shop products like vegetables, fruits by Customers and Farmers can sell their products without any middleman</h1>
+<h1 align="center">Hi 👋, This is E-KisanKart based on e-commerce website to shop products like vegetables, fruits by Customers and Farmers can sell their products without any middleman</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddhesh darade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhesh darade" height="30" width="40" /></a>
